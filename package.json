@@ -1,0 +1,20 @@
+{
+  "name": "patricks-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Patrick N.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
